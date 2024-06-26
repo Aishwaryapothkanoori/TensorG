@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TensorG/static/css/main.f855e6bc.css",
+    "main.js": "/TensorG/static/js/main.b8a58459.js",
+    "static/js/453.c914f975.chunk.js": "/TensorG/static/js/453.c914f975.chunk.js",
+    "index.html": "/TensorG/index.html",
+    "main.f855e6bc.css.map": "/TensorG/static/css/main.f855e6bc.css.map",
+    "main.b8a58459.js.map": "/TensorG/static/js/main.b8a58459.js.map",
+    "453.c914f975.chunk.js.map": "/TensorG/static/js/453.c914f975.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b8a58459.js"
+  ]
+}
